@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.Board {
+  position: relative;
+  margin: 0 auto;
+  background-color: #000;
 }
