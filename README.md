@@ -1,4 +1,4 @@
-# Game of Life 🌟
+# Game of Life - with REACT🌟
 
 Welcome to the **Game of Life** implementation using React! This is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It's a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
 
@@ -34,26 +34,29 @@ The Game of Life consists of a grid of cells which can live, die, or multiply ba
 ## How to Run 🚀
 
 1. Clone the repository:
+
 ```sh
    git clone https://github.com/your-username/game-of-life.git
 ```
+
 2. Navigate to the project directory:
+
 ```sh
    cd game-of-life
 ```
+
 3. Install dependencies:
+
 ```sh
    npm install
-   ```
+```
+
 4. Start the application:
+
 ```sh
    npm start
-   ```
+```
 
 ## Enjoy the Game! 🎉
 
 Feel free to explore, tweak, and enjoy the beauty of Conway's Game of Life!
-
----
-
-Made with ❤️ using React.
